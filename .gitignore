@@ -1,0 +1,8 @@
+## Directory-based project format:
+.idea/
+/classes
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
