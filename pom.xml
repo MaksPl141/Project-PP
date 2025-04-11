@@ -33,10 +33,10 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.25</version>
-        </dependency>
+            <version>8.0.28</version>
+        </dependency><![CDATA[
 
-        <dependency>
+        ]]><dependency>
             <groupId>org.hibernate.javax.persistence</groupId>
             <artifactId>hibernate-jpa-2.1-api</artifactId>
             <version>1.0.2.Final</version>
